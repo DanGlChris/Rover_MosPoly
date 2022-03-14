@@ -1,3 +1,8 @@
+/*
+code retouch by Daglox Kankwanda
+See my github DanGlChris https://github.com/DanGlChris
+*/
+
 #include "motorLib.h"
 #include "PPMReader.h"
 #include <Arduino_FreeRTOS.h>
